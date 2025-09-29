@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/TestMediaElement2
+/TestMediaElement2/bin/Debug/net8.0-android
+/TestMediaElement2/obj
+*.user
